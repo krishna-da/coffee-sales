@@ -1,0 +1,5 @@
+Using XLOOKUP, I retrieved the values for the customer names, email and country columns in the orders sheet from the Customer sheet
+For columns coffe type, roast type, size and unit price, Using Match function, I retrieved the row and column numbers
+Using the Index function I retrieved the values for the coffee type, roast type, size and unit price columns
+I calculated the sales columns by multiplying quantity against the unit price . I used formatting option to display the sales in USD
+I used logical IF function to display the coffee type name and roast name
